@@ -2,7 +2,7 @@ import styles from "./style";
 import {
   Navbar,
   Hero,
-  State,
+  Stats,
   Business,
   CTA,
   Clients,
@@ -24,9 +24,9 @@ const App = () => (
         <Hero />
       </div>
     </div>
-    <div className={`bg-primary ${styles.flexStart} ${styles.flexStart}`}>
+    <div className={`bg-primary ${styles.flexStart}`}>
       <div className={`${styles.boxWidth}`}>
-        <State />
+        <Stats />
         <Business />
         <Billing />
         <CardDeal />

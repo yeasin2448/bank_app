@@ -9,7 +9,7 @@ import Footer from "./Footer";
 import GetStarted from "./GetStarted";
 import Hero from "./Hero";
 import Navbar from "./Navbar";
-import State from "./State";
+import Stats from "./Stats";
 import Testimonials from "./Testimonials";
 
 export {
@@ -24,6 +24,6 @@ export {
   Footer,
   GetStarted,
   Hero,
-  State,
+  Stats,
   Testimonials,
 };
