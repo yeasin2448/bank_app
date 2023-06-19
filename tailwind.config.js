@@ -13,6 +13,9 @@ module.exports = {
       fontFamily: {
         poppins: ["Poppins", "sans-serif"],
       },
+      boxShadow: {
+        theme_shadow: "0px 1px 13px rgba(122, 123, 127, .4)",
+      },
     },
     screens: {
       xs: "480px",
