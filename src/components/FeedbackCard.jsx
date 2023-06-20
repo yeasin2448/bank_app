@@ -1,11 +1,7 @@
-import React from 'react'
+import React from "react";
 
-const FeedbackCard = () => {
-  return (
-    <div>
-      Feed back card
-    </div>
-  )
-}
+const FeedbackCard = ({ content, name, title, img }) => {
+  return <div></div>;
+};
 
-export default FeedbackCard
+export default FeedbackCard;
